@@ -23,7 +23,7 @@ namespace CSharpMastersAssignment1
 
         public string DecimalToPercentage(double i1)
         {
-            return Multiplication(i1, 100).ToString();
+            return Multiplication(i1, 100).ToString()+"%";
         }
 
         public string GetLargerInput(double i1, double i2)

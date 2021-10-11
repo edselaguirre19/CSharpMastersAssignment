@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EdselA\\source\\repos\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\CSharpMastersAssignment1.csproj",
+      "projectUniqueName": "C:\\Users\\EdselA\\OneDrive - Magenic\\Documents\\GitHub\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\CSharpMastersAssignment1.csproj",
       "projectName": "CSharpMastersAssignment1",
-      "projectPath": "C:\\Users\\EdselA\\source\\repos\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\CSharpMastersAssignment1.csproj",
+      "projectPath": "C:\\Users\\EdselA\\OneDrive - Magenic\\Documents\\GitHub\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\CSharpMastersAssignment1.csproj",
       "packagesPath": "C:\\Users\\EdselA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EdselA\\source\\repos\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\obj\\",
+      "outputPath": "C:\\Users\\EdselA\\OneDrive - Magenic\\Documents\\GitHub\\CSharpMastersAssignment1\\CSharpMastersAssignment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EdselA\\AppData\\Roaming\\NuGet\\NuGet.Config",
