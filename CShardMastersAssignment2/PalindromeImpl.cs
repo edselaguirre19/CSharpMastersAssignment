@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Text.RegularExpressions;
 
 namespace CShardMastersAssignment2
 {
@@ -9,11 +7,17 @@ namespace CShardMastersAssignment2
     {
         private Helper _helper;
 
+        /// <summary>Initializes a new instance of the <see cref="PalindromeImpl" /> class.</summary>
+        /// <param name="helper">The helper.</param>
         public PalindromeImpl(Helper helper)
         {
             _helper = helper;
         }
 
+        /// <summary>Determines the specified inputs.</summary>
+        /// <param name="inputs">The inputs.</param>
+        /// <returns>
+        /// </returns>
         public string Determine(Dictionary<int, string> inputs)
         {
             List<Tuple<int, string, string>> results = new List<Tuple<int, string, string>>();
@@ -31,6 +35,10 @@ namespace CShardMastersAssignment2
             return ResultBuilder(results);
         }
 
+        /// <summary>Results the builder.</summary>
+        /// <param name="results">The results.</param>
+        /// <returns>
+        /// </returns>
         private string ResultBuilder(List<Tuple<int, string, string>> results)
         {
             string message = "Here are the result:\n";
@@ -44,6 +52,10 @@ namespace CShardMastersAssignment2
             return message;
         }
 
+        /// <summary>Checks the specified input.</summary>
+        /// <param name="input">The input.</param>
+        /// <returns>
+        /// </returns>
         private string Check(string input)
         {
             int initial = 0;

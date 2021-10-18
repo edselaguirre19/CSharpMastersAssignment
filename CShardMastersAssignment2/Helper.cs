@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CShardMastersAssignment2
 {
     public class Helper
     {
-
-
-
+        /// <summary>Validates the specified input.</summary>
+        /// <param name="input">The input.</param>
+        /// <returns>
+        ///   <br />
+        /// </returns>
         public Tuple<bool, string> Validate(string input)
         {
             input = input.Trim();
