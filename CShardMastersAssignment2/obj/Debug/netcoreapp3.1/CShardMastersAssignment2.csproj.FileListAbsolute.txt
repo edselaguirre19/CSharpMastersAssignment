@@ -1,0 +1,13 @@
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.exe
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.deps.json
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.runtimeconfig.json
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.runtimeconfig.dev.json
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.dll
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\bin\Debug\netcoreapp3.1\CShardMastersAssignment2.pdb
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.csprojAssemblyReference.cache
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.AssemblyInfoInputs.cache
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.AssemblyInfo.cs
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.dll
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.pdb
+C:\Users\EdselA\OneDrive - Magenic\Documents\GitHub\CSharpMastersAssignment1\CShardMastersAssignment2\obj\Debug\netcoreapp3.1\CShardMastersAssignment2.genruntimeconfig.cache
